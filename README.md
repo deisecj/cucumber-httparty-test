@@ -1,6 +1,6 @@
 # README
 
-# Testes API logradoudoros por CEP
+# Testes API logradouros por CEP
 
 Executar no diretório do projetom, os passos abaixo para rodar os testes:
 
