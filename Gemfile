@@ -5,3 +5,4 @@ gem 'httparty'
 
 gem 'sinatra'
 gem 'sinatra-contrib'
+gem 'rspec-expectations'
