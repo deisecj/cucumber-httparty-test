@@ -15,6 +15,6 @@ Cenário: Buscar logradouro informando CEP inválido
 Cenário: Buscar logradouro sem o CEP
   Dado que tenho a API para consultar dados do logradouro por CEP
   Quando faço uma requisição com CEP vazio
-  Então A API retorna erro de bad request
+  Então A API retorna dado não encontrado
 
 

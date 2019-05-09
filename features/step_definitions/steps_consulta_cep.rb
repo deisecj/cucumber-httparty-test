@@ -20,3 +20,7 @@ end
 Então("A API retorna erro de bad request") do
   expect(@response.code).to eq(400)
 end
+
+Então("A API retorna dado não encontrado") do
+  expect(@response.code).to eq(404)
+end
